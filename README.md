@@ -1,4 +1,4 @@
-### Hi there! I'm Jane Nyandele, an epidemiologist and data analyst highly proficient in R, Stata and Excel. I am passionate about conducting research studies to answer important public health questions, and driven by the desire to prevent infectious diseases and reduce the burden of illness on communities.
+Hi there! I'm Jane Nyandele, an epidemiologist and data analyst highly proficient in R, Stata and Excel. I am passionate about conducting research studies to answer important public health questions, and driven by the desire to prevent infectious diseases and reduce the burden of illness on communities.
 
 
 - 🔭 I’m currently working on executing a research study on molecular interventions for detecting and treating low malaria infections in school children
